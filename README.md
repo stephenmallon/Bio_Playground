@@ -1,2 +1,3 @@
 # Bio_Playground
-Bioinformatics Scripts 
+Bioinformatics Scripts for learning 
+
